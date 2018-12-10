@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node back",
+  "main": "server.js",
+  "scripts": {
+    "server-back": "nodemon server.js --exec babel-node"
+  },
+  "author": "",
+  "license": "ISC"
+}

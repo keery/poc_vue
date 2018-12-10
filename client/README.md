@@ -1,4 +1,4 @@
-# poc_vue
+# client
 
 ## Project setup
 ```
